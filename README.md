@@ -1,7 +1,6 @@
-# macbook-ping-menu-bar
+ <h1 align="center">Macbook Ping Menu Bar</h1>
 
 ![alt text](.github/image.png)
-![alt text](.github/image-1.png)
 
 A lightweight macOS menu bar application that displays real-time ping status to monitor your network connection.
 
